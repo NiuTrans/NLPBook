@@ -30,7 +30,7 @@ This is a book about neural networks and large language models in NLP. It is int
 
 The complete version containing all the chapters can be found here [pdf].
 
-## Citing this book
+## Citing This Book
 
 @article{Xiao-and-Zhu:2025NLP,<br>
 &ensp;&ensp;&ensp;&ensp;title={Natural Language Processing: Neural Networks and Large Language Models},<br>
