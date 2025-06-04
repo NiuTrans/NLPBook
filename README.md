@@ -1,5 +1,7 @@
 # Natural Language Processing:<br>Neural Networks and Large Language Models
 
+Tong Xiao and Jingbo Zhu
+
 This is a book about neural networks and large language models in NLP. It is intended for anyone interested in NLP and deep learning. Some of the chapters are drawn from our previously published articles (e.g., [Introduction to Transformers: An NLP Perspective](https://arxiv.org/abs/2311.17633) and  [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)), but we have added significant new content.
 
 ## Content
