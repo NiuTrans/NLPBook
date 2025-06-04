@@ -1,2 +1,3 @@
-# NLPBook
-A book about neural methods and large language models in NLP
+#  Natural Language Processing:<br>Neural Networks and Large Language Models 
+
+
