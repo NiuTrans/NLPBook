@@ -16,8 +16,8 @@ This is a book about neural networks and large language models in NLP. It is int
 <li>Part II: Basic Models</li>
 	<ul>
 	<li>Chapter 3: Words and Word Vectors [pdf]</li>
-	<li>Chapter 4: Recurrent and Convolutional Sequence Modeling [pdf]</li>
-	<li>Chapter 5: Sequence-to-Sequence Modeling [pdf]</li>
+	<li>Chapter 4: Recurrent and Convolutional Sequence Models [pdf]</li>
+	<li>Chapter 5: Sequence-to-Sequence Models [pdf]</li>
 	<li>Chapter 6: Transformers [pdf]</li>
 	</ul>
 <li>Part III: Large Language Models</li>
