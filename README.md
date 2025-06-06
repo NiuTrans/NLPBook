@@ -37,7 +37,7 @@ Here's the complete version containing all the chapters [pdf].
 @book{Xiao-and-Zhu:2025NLP,<br>
 &ensp;&ensp;&ensp;&ensp;title={Natural Language Processing: Neural Networks and Large Language Models},<br>
 &ensp;&ensp;&ensp;&ensp;author={Tong Xiao and Jingbo Zhu},<br>
-&ensp;&ensp;&ensp;&ensp;publisher={NiuTrans}<br>
+&ensp;&ensp;&ensp;&ensp;publisher={NiuTrans},<br>
 &ensp;&ensp;&ensp;&ensp;year={2025}<br>
 }
 
