@@ -30,7 +30,7 @@ This is a book about neural networks and large language models in NLP. It is int
 	</ul>
 </ul>
 
-Here's the complete version containing all the chapters [pdf].
+Here's the complete version containing all the chapters <a href="./nlp-book.pdf" target="_blank">[pdf].
 
 ## Citing This Book
 
