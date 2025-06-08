@@ -6,31 +6,23 @@ This is a book on neural networks and large language models in NLP. It is intend
 
 ## Chapters
 
-<ul>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
-<li>Part I: Preliminaries</li>
-	<ul>
-	<li>Chapter 1: Foundations of Machine Learning <a href="./chapters/nlp-book-chapter1.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 2: Foundations of Neural Networks <a href="./chapters/nlp-book-chapter2.pdf" target="_blank">[pdf]</li>
-	</ul>
-<li>Part II: Basic Models</li>
-	<ul>
-	<li>Chapter 3: Words and Word Vectors <a href="./chapters/nlp-book-chapter3.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 4: Recurrent and Convolutional Sequence Models <a href="./chapters/nlp-book-chapter4.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 5: Sequence-to-Sequence Models <a href="./chapters/nlp-book-chapter5.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 6: Transformers <a href="./chapters/nlp-book-chapter6.pdf" target="_blank">[pdf]</li>
-	</ul>
-<li>Part III: Large Language Models</li>
-	<ul>
-	<li>Chapter 7: Pre-training <a href="./chapters/nlp-book-chapter7.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 8: Generative Models <a href="./chapters/nlp-book-chapter8.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 9: Prompting <a href="./chapters/nlp-book-chapter9.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 10: Alignment <a href="./chapters/nlp-book-chapter10.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 11: Inference <a href="./chapters/nlp-book-chapter11.pdf" target="_blank">[pdf]</li>
-	</ul>
-</ul>
+- Table of Contents [[pdf]](./chapters/nlp-book-contents.pdf)
+- Part I: Preliminaries
+	- Chapter 1: Foundations of Machine Learning [[pdf]](./chapters/nlp-book-chapter1.pdf)
+	- Chapter 2: Foundations of Neural Networks [[pdf]](./chapters/nlp-book-chapter2.pdf)
+- Part II: Basic Models
+	- Chapter 3: Words and Word Vectors [[pdf]](./chapters/nlp-book-chapter3.pdf)
+	- Chapter 4: Recurrent and Convolutional Sequence Models [[pdf]](./chapters/nlp-book-chapter4.pdf)
+	- Chapter 5: Sequence-to-Sequence Models [[pdf]](./chapters/nlp-book-chapter5.pdf)
+	- Chapter 6: Transformers [[pdf]](./chapters/nlp-book-chapter6.pdf)
+- Part III: Large Language Models
+	- Chapter 7: Pre-training [[pdf]](./chapters/nlp-book-chapter7.pdf)
+	- Chapter 8: Generative Models [[pdf]](./chapters/nlp-book-chapter8.pdf)
+	- Chapter 9: Prompting [[pdf]](./chapters/nlp-book-chapter9.pdf)
+	- Chapter 10: Alignment [[pdf]](./chapters/nlp-book-chapter10.pdf)
+	- Chapter 11: Inference [[pdf]](./chapters/nlp-book-chapter11.pdf)
 
-Here's the complete version containing all the chapters <a href="./chapters/nlp-book.pdf" target="_blank">[pdf].
+Here's the complete version containing all the chapters [[pdf]](./chapters/nlp-book.pdf)
 
 ## Citing This Book
 
