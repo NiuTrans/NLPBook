@@ -31,6 +31,7 @@ This is a book on neural networks and large language models in NLP. It is intend
 	<li>Chapter 9: Prompting <a href="./chapters/nlp-book-chapter9.pdf" target="_blank">[pdf]</li>
 	<li>Chapter 10: Alignment <a href="./chapters/nlp-book-chapter10.pdf" target="_blank">[pdf]</li>
 	<li>Chapter 11: Inference <a href="./chapters/nlp-book-chapter11.pdf" target="_blank">[pdf]</li>
+	<li>Chapter 12: Reasoning <a href="./chapters/nlp-book-chapter12.pdf" target="_blank">[pdf]</a> 🆕</li>
 	</ul>
 </ul>
 
