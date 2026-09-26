@@ -1,4 +1,4 @@
-# Natural Language Processing:<br>Neural Networks and Large Language Models
+# Natural Language Processing:<br> Neural Networks and Large Language Models
 
 [https://github.com/NiuTrans/NLPBook](https://github.com/NiuTrans/NLPBook)
 
@@ -11,40 +11,45 @@ This is a book on neural networks and large language models in NLP. It is intend
 ## Chapters
 
 <ul>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
-<li>Part I: Preliminaries</li>
+<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</a></li>
+<li>Part I: Preliminaries
 	<ul>
-	<li>Chapter 1: Foundations of Machine Learning <a href="./chapters/nlp-book-chapter1.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 2: Foundations of Neural Networks <a href="./chapters/nlp-book-chapter2.pdf" target="_blank">[pdf]</li>
+	<li>Chapter 1: Foundations of Machine Learning <a href="./chapters/nlp-book-chapter1.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 2: Foundations of Neural Networks <a href="./chapters/nlp-book-chapter2.pdf" target="_blank">[pdf]</a></li>
 	</ul>
-<li>Part II: Basic Models</li>
+</li>
+<li>Part II: Basic Models
 	<ul>
-	<li>Chapter 3: Words and Word Vectors <a href="./chapters/nlp-book-chapter3.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 4: Recurrent and Convolutional Sequence Models <a href="./chapters/nlp-book-chapter4.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 5: Sequence-to-Sequence Models <a href="./chapters/nlp-book-chapter5.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 6: Transformers <a href="./chapters/nlp-book-chapter6.pdf" target="_blank">[pdf]</li>
+	<li>Chapter 3: Words and Word Vectors <a href="./chapters/nlp-book-chapter3.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 4: Recurrent and Convolutional Sequence Models <a href="./chapters/nlp-book-chapter4.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 5: Sequence-to-Sequence Models <a href="./chapters/nlp-book-chapter5.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 6: Transformers <a href="./chapters/nlp-book-chapter6.pdf" target="_blank">[pdf]</a></li>
 	</ul>
-<li>Part III: Large Language Models</li>
+</li>
+<li>Part III: Large Language Models
 	<ul>
-	<li>Chapter 7: Pre-training <a href="./chapters/nlp-book-chapter7.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 8: Generative Models <a href="./chapters/nlp-book-chapter8.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 9: Prompting <a href="./chapters/nlp-book-chapter9.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 10: Alignment <a href="./chapters/nlp-book-chapter10.pdf" target="_blank">[pdf]</li>
-	<li>Chapter 11: Inference <a href="./chapters/nlp-book-chapter11.pdf" target="_blank">[pdf]</li>
+	<li>Chapter 7: Pre-training <a href="./chapters/nlp-book-chapter7.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 8: Generative Models <a href="./chapters/nlp-book-chapter8.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 9: Prompting <a href="./chapters/nlp-book-chapter9.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 10: Alignment <a href="./chapters/nlp-book-chapter10.pdf" target="_blank">[pdf]</a></li>
+	<li>Chapter 11: Inference <a href="./chapters/nlp-book-chapter11.pdf" target="_blank">[pdf]</a></li>
 	<li>Chapter 12: Reasoning <a href="./chapters/nlp-book-chapter12.pdf" target="_blank">[pdf]</a> 🆕</li>
 	</ul>
+</li>
 </ul>
 
-Here's the complete version containing all the chapters <a href="./chapters/nlp-book.pdf" target="_blank">[pdf].
+Here's the complete version containing all the chapters <a href="./chapters/nlp-book.pdf" target="_blank">[pdf]</a>.
 
 ## Citing This Book
 
-@book{Xiao-and-Zhu:2025NLP,<br>
-&ensp;&ensp;&ensp;&ensp;title={Natural Language Processing: Neural Networks and Large Language Models},<br>
-&ensp;&ensp;&ensp;&ensp;author={Tong Xiao and Jingbo Zhu},<br>
-&ensp;&ensp;&ensp;&ensp;publisher={NiuTrans},<br>
-&ensp;&ensp;&ensp;&ensp;year={2025}<br>
+```bibtex
+@book{Xiao-and-Zhu:2025NLP,
+  title={Natural Language Processing: Neural Networks and Large Language Models},
+  author={Tong Xiao and Jingbo Zhu},
+  publisher={NiuTrans},
+  year={2025}
 }
+```
 
 ## Translations of This Book
 
