@@ -43,11 +43,13 @@ Here's the complete version containing all the chapters <a href="./chapters/nlp-
 ## Citing This Book
 
 ```bibtex
-@book{Xiao-and-Zhu:2025NLP,
-  title={Natural Language Processing: Neural Networks and Large Language Models},
-  author={Tong Xiao and Jingbo Zhu},
-  publisher={NiuTrans},
-  year={2025}
+@book{xiao-zhu:2027nlp,
+  author    = {Xiao, Tong and Zhu, Jingbo},
+  title     = {Natural Language Processing: Neural Networks and Large Language Models},
+  publisher = {Springer},
+  year      = {2027},
+  isbn      = {978-981-92-6598-5},
+  url       = {https://link.springer.com/book/9789819265985}
 }
 ```
 
