@@ -48,7 +48,8 @@ Here's the complete version containing all the chapters <a href="./chapters/nlp-
   title     = {Natural Language Processing: Neural Networks and Large Language Models},
   publisher = {Springer},
   year      = {2027},
-  isbn      = {978-981-92-6598-5}
+  isbn      = {978-981-92-6598-5},
+  url       = {https://link.springer.com/book/9789819265985}
 }
 ```
 
